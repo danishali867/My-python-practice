@@ -1,0 +1,15 @@
+tuple1=(1,2,3,4,5,6,7,8,9,"pakistan")
+tuple2=("danish","wali","junaid","fiasal","zahid")
+tuple3=("apple","mango")
+tuple4=()
+tuple5=(4,)
+print(tuple5)
+# # tuple_mix=tuple1+tuple2+tuple3
+# # print(tuple_mix)
+# # print(tuple4)
+# # print(tuple1[0:4])
+# # print(tuple2[-4:])
+# newtuple=(tuple2+(3,))
+# print(newtuple)
+my_type=tuple1*5
+print(my_type)
